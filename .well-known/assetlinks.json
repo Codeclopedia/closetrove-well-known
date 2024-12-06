@@ -1,0 +1,13 @@
+[
+    {
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "com.clovestore.ProApplication",
+        "sha256_cert_fingerprints": [
+          "D8:14:0F:9B:83:86:84:80:16:C3:0E:3F:9C:F9:31:2E:AB:0E:19:1F:95:84:06:5E:D5:5E:B0:BD:2E:83:33:7B"
+        ]
+      }
+    }
+  ]
+  
