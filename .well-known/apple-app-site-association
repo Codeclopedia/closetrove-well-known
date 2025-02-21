@@ -1,0 +1,11 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "PCBGZ6D7J6.com.closetrove.app",
+                "paths": ["/app/*"]
+            }
+        ]
+    }
+}
